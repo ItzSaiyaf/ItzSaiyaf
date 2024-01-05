@@ -1,6 +1,6 @@
 # Hey, I'm Saiyaf 👋
 
-This is my corner on GitHub where I explore and share my passions 🚀.\
+This is my corner on GitHub where I explore and share my passions 🚀\
 I'm a passionate software engineering undergraduate who finds joy in unraveling complex problems and turning ideas into reality. With a keen interest in the world of code and algorithms, I am on a journey to explore the depths of software engineering.
 
 ## About Me

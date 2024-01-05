@@ -21,7 +21,7 @@ I love crafting elegant code and building software that makes a difference. My p
 <!-- Here are some featured projects from this repository: 
 Feel free to explore the repository and check out the various projects. -->
 
-|L|O|A|D|I|N|G|
+| L | O | A | D | I | N | G |
 
 ## Reach Me
 [LinkedIn](https://www.linkedin.com/in/saiyaflareef)\

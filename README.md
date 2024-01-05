@@ -24,6 +24,6 @@ Feel free to explore the repository and check out the various projects. -->
 |L|O|A|D|I|N|G|
 
 ## Reach Me
-[LinkedIn](https://www.linkedin.com/in/saiyaflareef)
+[LinkedIn](https://www.linkedin.com/in/saiyaflareef)\
 [Twitter](https://twitter.com/ItzSaiyaf)
 Thank you for stopping by! I hope you find something intriguing in my collection of interests. 🌟
